@@ -1,6 +1,10 @@
 # Overview
 
-This package is a claim on the preoccupied namespace.
+This [python] package is a claim on the preoccupied namespace in [PyPI].
+
+[python]: https://python.org
+
+[pypi]: https://pypi.org
 
 
 ## Reasoning
@@ -27,11 +31,9 @@ candidates for the preoccupied namespace are:
 
 ## Contact
 
-Author: Christopher O'Brien  <obriencj@gmail.com>
+Author: Christopher O'Brien  <obriencj@preoccupied.net>
 
-Original Git Repository: <https://github.com/obriencj/koji-smoky-dingo>
-
-Documentation: <https://obriencj.github.io/koji-smoky-dingo>
+Original Git Repository: <https://github.com/obriencj/python-preoccupied>
 
 
 ## License
